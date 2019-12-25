@@ -5,7 +5,7 @@
 环境要求：
 ---
 python:3.x <br /> 
-tensorflow  1.x
+tensorflow  1.x<br /> 
 word2vec 0.10.2
 
 <br /> <br /> 
