@@ -6,6 +6,7 @@
 ---
 python:3.x <br /> 
 tensorflow  1.x
+word2vec 0.10.2
 
 <br /> <br /> 
 运行<br /> 
